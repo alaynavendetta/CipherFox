@@ -3,6 +3,7 @@
 **CipherFox** is a terminal-based XOR encoding and decoding tool with a stylized TUI (Text User Interface) built using Python's `curses` module. It supports multilevel XOR ciphers with output in either Base64 or raw binary format. Inspired by retro cyberpunk aesthetics and fox-themed flair.
 
 Created by **Alayna Ferdarko**.
+18 April, 2025
 
 ---
 
